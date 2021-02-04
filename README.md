@@ -1,0 +1,1 @@
+The goal is to remake the Google homepage and push it to Github. 
